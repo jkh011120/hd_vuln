@@ -8,8 +8,8 @@ ReadtextCommand.class
 
 [드림핵 관련문제](https://dreamhack.io/wargame/challenges/1141)
 
-[문제 단서](https://www.spigotmc.org/resources/holographicdisplays-path-exploit-fix.48469/)
-
+[문제 단서1](https://www.spigotmc.org/resources/holographicdisplays-path-exploit-fix.48469/)
+[문제 단서2](https://github.com/filoghost/HolographicDisplays/issues/266)
 
 <br>
 다른 매서드들 더 눌러서 뭐하는건지 찾아봐야하는데,,,, 시간이 엄따 학교공부하자

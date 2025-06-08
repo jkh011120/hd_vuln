@@ -2,6 +2,7 @@
 
 ![사진1](https://github.com/jkh011120/hd_vuln/blob/main/%EC%82%AC%EC%A7%84.png)
 
+ReadtextCommand.class
 왼쪽 2.3.0v 오른쪽 2.2.6v
 
 [드림핵 관련문제](https://dreamhack.io/wargame/challenges/1141)
